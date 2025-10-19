@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Наши базовые стили (необязательно, но приятно) */
+html, body, #root {
+  height: 100%;
+}
+body {
+  background: #2C273E;
+}
